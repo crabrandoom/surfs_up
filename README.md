@@ -8,9 +8,9 @@ The goal of this analysis was to provide the client with insight into the weathe
 ## Results
 
 -The average temperature during the month of June is ~75 Degrees F
-![June.png](https://github.com/crabrandoom/surfs_up/blob/main/June.png)
+![June.png](https://github.com/crabrandoom/surfs_up/blob/main/June.PNG)
 -The average temperature during the month of December is ~71 Degrees F
-![December.png](https://github.com/crabrandoom/surfs_up/blob/main/December.png)
+![December.png](https://github.com/crabrandoom/surfs_up/blob/main/December.PNG)
 -The minimum temperature in December is marginally lower than in June by 8 Degrees F
 
 
