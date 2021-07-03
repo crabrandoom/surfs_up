@@ -22,7 +22,11 @@ The goal of this analysis was to provide the client with insight into the weathe
 
 
 -Based on the results the temperature data for the months of June and December seem to indicate that the surf and ice cream shop business would in fact be sustainable year - round.
+
 -Two queries that could be used to find more out about weather during the months of December and June are listed below
+
 -session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()
+
 -session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date)==6).all()
+
 -These queries could be used to determine how much rainfall there is during these months which would provide useful insights for the feasibility of this shop location
